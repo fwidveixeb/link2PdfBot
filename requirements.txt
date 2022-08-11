@@ -3,3 +3,4 @@ TgCrypto
 bs4
 requests
 weasyprint
+flask
